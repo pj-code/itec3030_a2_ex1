@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"itec3030.assignments.a2","l":"OldTempSensorAdapter"}];updateSearchResults();
